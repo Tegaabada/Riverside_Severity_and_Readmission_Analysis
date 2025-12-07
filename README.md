@@ -47,7 +47,7 @@ These are dynamic fields created in Excel (via calculated columns or measures) t
 - Emergency Admission Measure: This calculates percentages of cases admitted via emergency pathway and feeds data for the KPI card for emergency admissions.
 
 
-Analysis Technique
+#### Analysis Technique
 The analysis was built entirely in Excel, utilizing its powerful features for data organization, calculation, and visualization. Key techniques used include:
 - Pivot tables for aggregating patient counts and readmission rates
 - Calculated fields for deriving percentages and severity mixes
@@ -56,9 +56,7 @@ The analysis was built entirely in Excel, utilizing its powerful features for da
 - Slicers for dynamic filtering across key dimensions
 
 
-Analysis
-
-<img width="1500" height="710" alt="RM_dashboard overview" src="https://github.com/user-attachments/assets/1f737885-fef3-47e7-bef1-467eaadd9693" />
+#### Analysis
 <img src="RM_dashboard overview.png" alt="RM_dashboard overview">
 
 The analysis of Riverside Memorial Hospital’s patient severity and readmission data focuses on several Key Performance Indicators (KPIs) that highlights performance across clinical acuity (referring to the severity and urgency of a patient’s illness), discharge outcomes, and operational efficiency. 

@@ -58,7 +58,7 @@ The analysis was built entirely in Excel, utilizing its powerful features for da
 
 Analysis
 
-(Full image of dashboard)
+RM_dashboard overview.png
 
 The analysis of Riverside Memorial Hospital’s patient severity and readmission data focuses on several Key Performance Indicators (KPIs) that highlights performance across clinical acuity (referring to the severity and urgency of a patient’s illness), discharge outcomes, and operational efficiency. 
 Below is a breakdown of the results:

@@ -82,7 +82,8 @@ Below is a breakdown of the results:
 - Key Insight: Cardiology is the dominant driver of readmissions and should be prioritized for pathway review.
 
 2. Case Severity Across Patients
-  <img src="images/Cases across ptnts.png" alt="RM_dashboard overview">
+ <img src="images/Cases across ptnts.png" alt="RM_dashboard overview">
+<img width="726" height="461" alt="Cases across ptnts" src="https://github.com/user-attachments/assets/c1c49ee2-881c-4b92-9f98-8b295326e66a" />
 
 - With severity of illness across patients, Severe cases show a dominant lead with 3,587 cases. Moderate cases follow with 1,000 patients recorded and 413 patients recorded with Mild illness.
 Riverside Memorial hospital patient population is overwhelmingly severe, which places pressure on ICU/HDU bed capacity and demands robust discharge planning.
@@ -90,7 +91,7 @@ Riverside Memorial hospital patient population is overwhelmingly severe, which p
 
 3. Severe Cases by Age Group
    
-<img width="692" height="1072" src="images/Severe cases by age.png" alt="RM_dashboard overview"> 
+<img width="592" height="972" src="images/Severe cases by age.png" alt="RM_dashboard overview"> 
 - The highest burden of severe illness is in middle‑aged adults (41–50) accounting for 36.13% of severe cases. Severe cases drop significantly after age 80, with very low counts in the 81+ age bands.
 - Younger groups (21–40) still show notable severe cases, suggesting chronic or acute conditions affecting working‑age adults.
 - Infants and very elderly patients (Under 1, 91+) represent tiny fractions of severe cases, likely due to lower admission volumes or different triage pathways

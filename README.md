@@ -65,16 +65,13 @@ Below is a breakdown of the results:
 
 #### Key Performance Indicators (KPIs)
 
-**Total Cases**
-- 5,000 cases of patients were admitted during the period. This anchors all subsequent analysis and ensures metrics are based on all admission counts rather than unique patient rows.
+- **Total Cases:** 5,000 cases of patients were admitted during the period. This anchors all subsequent analysis and ensures metrics are based on all admission counts rather than unique patient rows.
   
-**Percentage of Readmitted Patients**
-- 4.78% of patients were readmitted. This relatively low rate and suggests effective discharge protocols.
+- **Percentage of Readmitted Patients:** 4.78% of patients were readmitted. This relatively low rate and suggests effective discharge protocols.
   
-**Percentage of Severe Cases**
-- 71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
-**Emergency Admissions**
-- 435 patients were admitted as emergencies. This highlights the urgent care load and provides context for triage and discharge risk.
+- **Percentage of Severe Cases@** 71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
+
+- **Emergency Admissions:** 435 patients were admitted as emergencies. This highlights the urgent care load and provides context for triage and discharge risk.
 
 
 #### Performance Analysis — Chart Insights

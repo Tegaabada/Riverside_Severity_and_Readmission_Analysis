@@ -76,7 +76,7 @@ Below is a breakdown of the results:
 
 #### Performance Analysis — Chart Insights
 1. Readmitted Cases by Department
-   <img src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
+   <img width="692" height="1072" src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
 - Cardiology leads with 169 readmissions, followed by Surgery (42) and Orthopaedics (23).
  Cardiology’s overwhelming lead reflects the complexity of cardiac care, where patients often require repeat interventions or experience complications post‑discharge. Surgery and Orthopaedics also show elevated readmissions, consistent with post‑operative risks.
 - Key Insight: Cardiology is the dominant driver of readmissions and should be prioritized for pathway review.
@@ -89,7 +89,7 @@ Riverside Memorial hospital patient population is overwhelmingly severe, which p
 - Key Insight: Severe cases dominate the hospital population, reinforcing the need for acuity‑driven resource allocation.
 
 3. Severe Cases by Age Group
-    <img src="images/Severe cases by age.png" alt="RM_dashboard overview"> 
+    <img width="692" height="1072" src="images/Severe cases by age.png" alt="RM_dashboard overview"> 
 - The highest burden of severe illness is in middle‑aged adults (41–50) accounting for 36.13% of severe cases. Severe cases drop significantly after age 80, with very low counts in the 81+ age bands.
 - Younger groups (21–40) still show notable severe cases, suggesting chronic or acute conditions affecting working‑age adults.
 - Infants and very elderly patients (Under 1, 91+) represent tiny fractions of severe cases, likely due to lower admission volumes or different triage pathways

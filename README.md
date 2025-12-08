@@ -76,7 +76,7 @@ Below is a breakdown of the results:
 
 #### Performance Analysis — Chart Insights
 1. Readmitted Cases by Department
-   <img width="726" height="461" src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
+<img width="726" height="461" src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
 - Cardiology leads with 169 readmissions, followed by Surgery (42) and Orthopaedics (23).
  Cardiology’s overwhelming lead reflects the complexity of cardiac care, where patients often require repeat interventions or experience complications post‑discharge. Surgery and Orthopaedics also show elevated readmissions, consistent with post‑operative risks.
 - Key Insight: Cardiology is the dominant driver of readmissions and should be prioritized for pathway review.

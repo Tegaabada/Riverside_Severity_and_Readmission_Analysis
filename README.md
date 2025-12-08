@@ -66,13 +66,13 @@ Below is a breakdown of the results:
 #### Key Performance Indicators (KPIs)
 
 #### Total Cases
-- 5,000 cases of patients were admitted during the period. This anchors all subsequent analysis and ensures metrics are based on all admission counts rather than unique patient rows.
-Percentage of Readmitted Patients
-- 4.78% of patients were readmitted. This relatively low rate and suggests effective discharge protocols.
-Percentage of Severe Cases
-- 71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
+5,000 cases of patients were admitted during the period. This anchors all subsequent analysis and ensures metrics are based on all admission counts rather than unique patient rows.
+#### Percentage of Readmitted Patients
+4.78% of patients were readmitted. This relatively low rate and suggests effective discharge protocols.
+#### Percentage of Severe Cases
+71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
 #### Emergency Admissions
-- 435 patients were admitted as emergencies. This highlights the urgent care load and provides context for triage and discharge risk.
+435 patients were admitted as emergencies. This highlights the urgent care load and provides context for triage and discharge risk.
 
 
 #### Performance Analysis — Chart Insights
@@ -87,7 +87,7 @@ Riverside Memorial hospital patient population is overwhelmingly severe, which p
 - Key Insight: Severe cases dominate the hospital population, reinforcing the need for acuity‑driven resource allocation.
 
 3. Severe Cases by Age Group
--  The highest burden of severe illness is in middle‑aged adults (41–50) accounting for 36.13% of severe cases. Severe cases drop significantly after age 80, with very low counts in the 81+ age bands.
+- The highest burden of severe illness is in middle‑aged adults (41–50) accounting for 36.13% of severe cases. Severe cases drop significantly after age 80, with very low counts in the 81+ age bands.
 - Younger groups (21–40) still show notable severe cases, suggesting chronic or acute conditions affecting working‑age adults.
 - Infants and very elderly patients (Under 1, 91+) represent tiny fractions of severe cases, likely due to lower admission volumes or different triage pathways
  

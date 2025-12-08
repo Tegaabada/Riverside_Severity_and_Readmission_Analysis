@@ -82,8 +82,7 @@ Below is a breakdown of the results:
 - Key Insight: Cardiology is the dominant driver of readmissions and should be prioritized for pathway review.
 
 2. Case Severity Across Patients
- <img src="images/Cases across ptnts.png" alt="RM_dashboard overview">
-<img width="726" height="461" alt="Cases across ptnts" src="https://github.com/user-attachments/assets/c1c49ee2-881c-4b92-9f98-8b295326e66a" />
+ <img width="726" height="461" src="images/Cases across ptnts.png" alt="Case severity across patients">
 
 - With severity of illness across patients, Severe cases show a dominant lead with 3,587 cases. Moderate cases follow with 1,000 patients recorded and 413 patients recorded with Mild illness.
 Riverside Memorial hospital patient population is overwhelmingly severe, which places pressure on ICU/HDU bed capacity and demands robust discharge planning.
@@ -91,7 +90,7 @@ Riverside Memorial hospital patient population is overwhelmingly severe, which p
 
 3. Severe Cases by Age Group
    
-<img width="592" height="972" src="images/Severe cases by age.png" alt="RM_dashboard overview"> 
+<img width="592" height="972" src="images/Severe cases by age.png" alt="Severe Cases by Age Group"> 
 - The highest burden of severe illness is in middle‑aged adults (41–50) accounting for 36.13% of severe cases. Severe cases drop significantly after age 80, with very low counts in the 81+ age bands.
 - Younger groups (21–40) still show notable severe cases, suggesting chronic or acute conditions affecting working‑age adults.
 - Infants and very elderly patients (Under 1, 91+) represent tiny fractions of severe cases, likely due to lower admission volumes or different triage pathways
@@ -104,7 +103,7 @@ This challenges traditional assumptions that severe cases are concentrated in ol
 - Narrative value: This chart provides a clinical realism check showing severity is not purely age‑driven, but reflects broader health risks in middle adulthood
 
 4. Patient Severity Distribution Across Bed Grades
-   <img src="images/Patient severity by bed grade.png" alt="RM_dashboard overview"> 
+   <img width="726" height="461" src="images/Patient severity by bed grade.png" alt="Patient Severity Distribution Across Bed Grades"> 
 - Overall, Riverside Memorial’s patient population is distributed across bed grades as follows: 15% Mild, 13% Moderate, and 72% Severe.
 - ICU anomaly: Nearly half of patients in the Intensive Care Unit are recorded as Mild (45%), while only half are recorded as Severe. Ideally ICU should overwhelmingly house Severe cases.
 - HDU alignment: The High Dependency Unit is closest to the expected triage, with 83% Severe cases and minimal Mild/Moderate occupancy.
@@ -123,7 +122,7 @@ Recommended Actions
 
 
 5. Readmission Distribution for Severe Cases
-   <img src="images/Readmission distribution for ptnts with severe cases.png" alt="RM_dashboard overview"> 
+   <img width="726" height="461" src="images/Readmission distribution for ptnts with severe cases.png" alt="Readmission Distribution for Severe Cases"> 
 - The majority of severe readmissions come through urgent pathways (59%), meaning patients are returning in unstable condition but not necessarily in full crisis.
 - Elective severe readmissions (31%) are unexpectedly high, since elective cases are planned admissions. This raises questions about pre‑operative risk assessment and post‑operative monitoring.
 - Emergency severe readmissions (10%) are the smallest share, suggesting that most severe patients do not deteriorate to full emergency status before returning, but rather present as urgent cases.

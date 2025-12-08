@@ -58,7 +58,7 @@ The analysis was built entirely in Excel, utilizing its powerful features for da
 
 
 ### Analysis
-<img src="RM_dashboard overview.png" alt="RM_dashboard overview">
+<img src="images/RM_dashboard overview.png" alt="RM_dashboard overview">
 
 The analysis of Riverside Memorial Hospital’s patient severity and readmission data focuses on several Key Performance Indicators (KPIs) that highlights performance across clinical acuity (referring to the severity and urgency of a patient’s illness), discharge outcomes, and operational efficiency. 
 Below is a breakdown of the results:
@@ -69,7 +69,7 @@ Below is a breakdown of the results:
   
 - **Percentage of Readmitted Patients:** 4.78% of patients were readmitted. This relatively low rate and suggests effective discharge protocols.
   
-- **Percentage of Severe Cases@** 71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
+- **Percentage of Severe Cases:** 71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
 
 - **Emergency Admissions:** 435 patients were admitted as emergencies. This highlights the urgent care load and provides context for triage and discharge risk.
 

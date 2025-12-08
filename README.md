@@ -76,7 +76,7 @@ Below is a breakdown of the results:
 
 #### Performance Analysis — Chart Insights
 1. Readmitted Cases by Department
-   <img src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
+   <img width="726" height="461" src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
 - Cardiology leads with 169 readmissions, followed by Surgery (42) and Orthopaedics (23).
  Cardiology’s overwhelming lead reflects the complexity of cardiac care, where patients often require repeat interventions or experience complications post‑discharge. Surgery and Orthopaedics also show elevated readmissions, consistent with post‑operative risks.
 - Key Insight: Cardiology is the dominant driver of readmissions and should be prioritized for pathway review.
@@ -122,7 +122,8 @@ Recommended Actions
 
 
 5. Readmission Distribution for Severe Cases
-   <img width="726" height="461" src="images/Readmission distribution for ptnts with severe cases.png" alt="Readmission Distribution for Severe Cases"> 
+   <img width="751" height="624" src="images/Readmission distribution for ptnts with severe cases.png" alt="Readmission Distribution for Severe Cases">
+
 - The majority of severe readmissions come through urgent pathways (59%), meaning patients are returning in unstable condition but not necessarily in full crisis.
 - Elective severe readmissions (31%) are unexpectedly high, since elective cases are planned admissions. This raises questions about pre‑operative risk assessment and post‑operative monitoring.
 - Emergency severe readmissions (10%) are the smallest share, suggesting that most severe patients do not deteriorate to full emergency status before returning, but rather present as urgent cases.

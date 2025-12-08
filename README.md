@@ -82,7 +82,8 @@ Below is a breakdown of the results:
 - Key Insight: Cardiology is the dominant driver of readmissions and should be prioritized for pathway review.
 
 2. Case Severity Across Patients
-  <img src="images/Cases across ptnts.png" alt="RM_dashboard overview"> 
+  <img width="692" height="1072" src="images/Cases across ptnts.png" alt="RM_dashboard overview">
+
 - With severity of illness across patients, Severe cases show a dominant lead with 3,587 cases. Moderate cases follow with 1,000 patients recorded and 413 patients recorded with Mild illness.
 Riverside Memorial hospital patient population is overwhelmingly severe, which places pressure on ICU/HDU bed capacity and demands robust discharge planning.
 - Key Insight: Severe cases dominate the hospital population, reinforcing the need for acuity‑driven resource allocation.

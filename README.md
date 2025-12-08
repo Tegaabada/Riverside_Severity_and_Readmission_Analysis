@@ -2,7 +2,7 @@
 ## Introduction
 Riverside Memorial Hospital is facing increasing pressure to optimize care pathways, allocate resources efficiently, and reduce preventable readmissions. This dashboard provides a data-driven lens into how patient severity aligns with triage decisions, bed allocation, and discharge outcomes. By analysing patterns across departments, admission types, and severity levels, I set out to uncover key insights that support clinical governance and operational strategy.
 
-Core Purpose
+### Core Purpose
 This analysis was done to answer a critical question:
 Are patients with severe illness being  treated, and discharged in a way that reflects their clinical risk and are hospital resources and care pathways aligned with this acuity?
 
@@ -13,7 +13,7 @@ This analysis of Riverside Memorial Hospital’s patient records evaluates:
 - Whether the age and severity patterns match what we’d expect to see in real clinical settings.
 The goal is to support hospital leadership in making informed decisions about triage protocols, discharge planning, and resource allocation.
 
-Outline
+### Outline
 - Methodology 
 - Analysis 
 - Key Performance Indicators
@@ -24,11 +24,11 @@ Outline
 -Conclusions
 
 
-Methodology
-Data Source
+### Methodology
+#### Data Source
 This analysis is based on a fictional hospital and fictional dataset sourced from Kaggle. While the data is synthetic and created for analytical purposes, it closely simulates real-world hospital operations. It includes detailed records on patient severity, admission types, bed grades, departmental assignments, and readmission status, allowing for robust exploration of triage efficiency, discharge outcomes, and clinical risk alignment.
 
-Helper Tables
+#### Helper Tables
 These reference tables were used to drive consistent mapping logic across pivots and dashboards.
 1.  Mappings Table (core helper table) that contains standardized codes and labels for:
 - Departments (e.g., General Medicine, Surgery, Cardiology, Orthopaedics, Neurology)
@@ -38,9 +38,9 @@ These reference tables were used to drive consistent mapping logic across pivots
 3. Binary flag (Yes/No) for patient IDs with repeat admissions.
 - These were built to help with filtering and aggregation of readmission cases by severity, department, and admission type.
 
-Calculated Measures
+#### Calculated Measures
 These are dynamic fields created in Excel (via calculated columns or measures) to support KPI cards and chart logic.
-- Ill ness Severity Classification: Groups cases into Mild, Moderate, Severe categories and drives KPI cards (% Severe cases) and severity distribution charts.
+- Illness Severity Classification: Groups cases into Mild, Moderate, Severe categories and drives KPI cards (% Severe cases) and severity distribution charts.
 - Bed Grade Allocation: Uses the Mappings table to align patient IDs with bed grade categories and supports “Patient Severity Distribution Across Bed Grades” chart.
 - Age Banding Measure: This applies the Mappings table to assign patients into defined age groups and enables “Severe Cases by Age” chart and age‑based pivots.
 - Readmission Percentage Measure: This calculates percentages of readmitted patients relative to total cases and powers KPI card for readmission rate and supports “Readmission Distribution for Severe Cases” chart.
@@ -56,25 +56,25 @@ The analysis was built entirely in Excel, utilizing its powerful features for da
 - Slicers for dynamic filtering across key dimensions
 
 
-#### Analysis
+### Analysis
 <img src="RM_dashboard overview.png" alt="RM_dashboard overview">
 
 The analysis of Riverside Memorial Hospital’s patient severity and readmission data focuses on several Key Performance Indicators (KPIs) that highlights performance across clinical acuity (referring to the severity and urgency of a patient’s illness), discharge outcomes, and operational efficiency. 
 Below is a breakdown of the results:
 
-Key Performance Indicators (KPIs)
+#### Key Performance Indicators (KPIs)
 
-Total Cases
+#### Total Cases
 - 5,000 cases of patients were admitted during the period. This anchors all subsequent analysis and ensures metrics are based on all admission counts rather than unique patient rows.
 Percentage of Readmitted Patients
 - 4.78% of patients were readmitted. This relatively low rate and suggests effective discharge protocols.
 Percentage of Severe Cases
 - 71.74% of patients were classified as having Severe illness. This confirms a high-acuity population, validating the dashboard’s focus on severity-driven care.
-Emergency Admissions
+#### Emergency Admissions
 - 435 patients were admitted as emergencies. This highlights the urgent care load and provides context for triage and discharge risk.
 
 
-Performance Analysis — Chart Insights
+#### Performance Analysis — Chart Insights
 1. Readmitted Cases by Department
 - Cardiology leads with 169 readmissions, followed by Surgery (42) and Orthopaedics (23).
  Cardiology’s overwhelming lead reflects the complexity of cardiac care, where patients often require repeat interventions or experience complications post‑discharge. Surgery and Orthopaedics also show elevated readmissions, consistent with post‑operative risks.
@@ -130,7 +130,7 @@ Operational Implication
 - Emergency readmissions (10%): While lower, they still represent critical failures in stabilization and continuity of care.
 
 
-Dropped Exploratory Findings
+#### Dropped Exploratory Findings
 During the exploratory analysis process, several analyses were tested but excluded to keep the key insights clean and focused on important information that answered the critical question of this project. 
 - Deposit per Day Chart: A deposit per day pivot that showed billing consistency was explored by then dropped as it had showed no actionable anomalies.
 - Top 10 Admission Deposit Table: This table was useful for audit but was not representative of population trends and so was dropped as well.
@@ -139,14 +139,14 @@ These exclusions were deliberate to keep the dashboard focused on acuity, triage
 
 
 
-Challenges
+#### Challenges
 
 - ICU misallocation complexity: The high proportion of Mild cases in ICU could stem from bed shortages, or escalation practices. 
 - Readmission pathway ambiguity: While urgent readmissions dominate, the dataset does not capture discharge protocols or follow‑up care, limiting causal analysis.
 - Bariatric bed usage: Mixed severity distribution suggests operational or specialized needs, but the dataset lacks detail on admission criteria, making interpretation less definitive.
 
 
-Recommendations
+#### Recommendations
 - ICU Admissions Audit: Given the high proportion of Mild cases in ICU, conduct a systematic review of escalation practices to ensure that more ICU beds are reserved for Severe patients.
 - Triage Protocol Enhancement: With 70% of Severe cases placed in Standard beds, strengthen triage protocols to ensure that patients with the highest needs are admitted to ICU or HDU rather than lower‑grade beds.
 - Middle‑Aged Severity Management: Since Severe illness peaks in the 41–50 age group, expand chronic disease management and preventive programs targeting middle‑aged adults to reduce progression to Severe cases.
@@ -154,7 +154,7 @@ Recommendations
 - Elective Readmission Oversight: Given that 31% of Severe readmissions are elective, strengthen pre‑admission screening and post‑operative monitoring to reduce bounce‑backs in planned care pathways.
 - Cardiology Pathway Optimization: As Cardiology leads with 100 readmissions, prioritize pathway reviews and introduce transitional care programs to reduce repeat admissions and associated costs.
 
-Conclusion
+#### Conclusion
 Riverside Memorial’s patient dataset highlights three governance‑critical signals:
 - Critical Care Misallocation: ICU beds are weakened by Mild occupancy, while Standard beds absorb Severe cases, revealing triage inefficiencies and capacity bottlenecks.
 - Population Acuity Reality: Severe cases dominate the hospital population (72%), with middle‑aged adults as the peak group, underscoring the need for preventive care beyond geriatric cohorts.

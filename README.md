@@ -169,3 +169,5 @@ Riverside Memorial’s patient dataset highlights three governance‑critical si
 - Readmission Pathway Pressure: Severe readmissions are driven by urgent cases (59%) and unexpectedly high elective returns (31%), exposing weaknesses in discharge stabilization and planned care oversight.
 By addressing these challenges, the hospital’s management can rebalance critical care resources, strengthen triage protocols, and reduce preventable readmissions. The recommendations provide a clear roadmap to improve patient outcomes, optimize operational efficiency, and ensure resources are deployed where they deliver the greatest impact.
 
+
+#### Author - Tega Abada

@@ -1,5 +1,5 @@
 # Riverside_Severity_and_Readmission_Analysis
- **Tools Used:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> [Pivot Tables, Charts, Slicers]
+ **Tech Stack:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> [Pivot Tables, Charts, Slicers]
 ## Introduction
 Riverside Memorial Hospital is facing increasing pressure to optimize care pathways, allocate resources efficiently, and reduce preventable readmissions. This dashboard provides a data-driven lens into how patient severity aligns with triage decisions, bed allocation, and discharge outcomes. By analysing patterns across departments, admission types, and severity levels, I set out to uncover key insights that support clinical governance and operational strategy.
 
